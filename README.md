@@ -1,5 +1,5 @@
 **DANIEL AMEKPOAGBE YAWSON**  
-Frontend Engineer, Accra, Ghana
+Full-stack Engineer, Accra, Ghana
 
 I build software products and intelligent systems that help businesses automate operations, improve customer experiences, and work more efficiently.
 
